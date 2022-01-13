@@ -1,0 +1,10 @@
+:root {
+  --typo: 'Noto Sans', sans-serif;
+  --dark: #0a253b;
+  --light: #fff;
+  --grey-dark: #23425c;
+  --grey-light: #97a2ad;
+  --main: #1fc1c3;
+  --border-radius: 4px;
+  --max-width: 1024px;
+}
